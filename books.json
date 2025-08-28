@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript: The Definitive Guide",
+    "author": "David Flanagan",
+    "price": 10.99,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@javascript_the_definitive_guide.jpg",
+    "detailsUrl": "#/books/1"
+  },
+  {
+    "id": 2,
+    "title": "Clean Code in JavaScript",
+    "author": "James Padolsey",
+    "price": 31.99,
+    "imageUrl": "/imageNotFound.png",
+    "detailsUrl": "#/books/2"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Everywhere",
+    "author": "Adam D. Scott",
+    "price": 8.99,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@javascript_everywhere.jpg",
+    "detailsUrl": "#/books/3"
+  },
+  {
+    "id": 4,
+    "title": "Learning React, 2nd Edition",
+    "author": "Alex Banks, Eve Porcello",
+    "price": 18.99,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@learning_react_2nd_edition.jpg",
+    "detailsUrl": "#/books/4"
+  },
+  {
+    "id": 5,
+    "title": "React: Up & Running, 2nd Edition",
+    "author": "Stoyan Stefanov",
+    "price": 14.99,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@react_up_and_running_2nd_edition.jpg",
+    "detailsUrl": "#/books/5"
+  },
+  {
+    "id": 6,
+    "title": "CSS: The Definitive Guide",
+    "author": "Eric Meyer, Estelle Weyl",
+    "price": 15.99,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@css_the_definitive_guide_5th_edition.jpg",
+    "detailsUrl": "#/books/6"
+  },
+  {
+    "id": 7,
+    "title": "Learning Test-Driven Development",
+    "author": "Saleem Siddiqui",
+    "price": 36.99,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@learning_test_driven_development.jpg",
+    "detailsUrl": "#/books/7"
+  },
+  {
+    "id": 8,
+    "title": "Angular: Up and Running",
+    "author": "Shyam Seshadri",
+    "price": 29.99,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@angular_up_and_running.jpg",
+    "detailsUrl": "#/books/8"
+  },
+  {
+    "id": 9,
+    "title": "RESTful Web APIs",
+    "author": "Mike Amundsen, Sam Ruby, Leonard Richardson",
+    "price": 12.99,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@restful_web_apis.jpg",
+    "detailsUrl": "#/books/9"
+  },
+  {
+    "id": 10,
+    "title": "Universal Design for Web Applications",
+    "author": "Wendy Chisholm, Matt May",
+    "price": 6.99,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@universal_design_for_web_applications.jpg",
+    "detailsUrl": "#/books/10"
+  },
+  {
+    "id": 11,
+    "title": "Web Workers: Multithreaded Programs",
+    "author": "Ido Green",
+    "price": 14.99,
+    "imageUrl": "/imageNotFound.png",
+    "detailsUrl": "#/books/11"
+  },
+  {
+    "id": 12,
+    "title": "WebSocket",
+    "author": "Andrew Lombardi",
+    "price": 10.89,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@websocket.jpg",
+    "detailsUrl": "#/books/12"
+  },
+  {
+    "id": 13,
+    "title": "Securing Ajax Applications",
+    "author": "Christopher Wells",
+    "price": 14.49,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@securing_ajax_applications.jpg",
+    "detailsUrl": "#/books/13"
+  },
+  {
+    "id": 14,
+    "title": "Version Control with Git",
+    "author": "Prem Kumar Ponuthorai, Jon Loeliger",
+    "price": 26.49,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@version_control_with_git_3rd_edition.jpg",
+    "detailsUrl": "#/books/14"
+  },
+  {
+    "id": 15,
+    "title": "MongoDB: The Definitive Guide",
+    "author": "Shannon Bradshaw, Eoin Brazil, Kristina Chodorow",
+    "price": 29.49,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@mongodb_the_definitive_guide_3rd_edition.jpg",
+    "detailsUrl": "#/books/15"
+  },
+  {
+    "id": 16,
+    "title": "Learning Git",
+    "author": "Anna Skoulikari",
+    "price": 6.39,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@learning_git.jpg",
+    "detailsUrl": "#/books/16"
+  },
+  {
+    "id": 17,
+    "title": "Using SVG with CSS3 and HTML5",
+    "author": "Amelia Bellamy-Royds, Kurt Cagle, Dudley Storey",
+    "price": 21.49,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@using_svg_with_css3_and_html5.jpg",
+    "detailsUrl": "#/books/17"
+  },
+  {
+    "id": 18,
+    "title": "SVG Animations",
+    "author": "Sarah Drasner",
+    "price": 28.39,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@svg_animations.jpg",
+    "detailsUrl": "#/books/18"
+  },
+  {
+    "id": 19,
+    "title": "Git for Teams",
+    "author": "Emma Jane Hogbin Westby",
+    "price": 7.39,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@git_for_teams.jpg",
+    "detailsUrl": "#/books/19"
+  },
+  {
+    "id": 20,
+    "title": "Learning Node, 2nd Edition",
+    "author": "Shelley Powers",
+    "price": 38.49,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@learning_node_2nd_edition.jpg",
+    "detailsUrl": "#/books/20"
+  },
+  {
+    "id": 21,
+    "title": "Node for Front-End Developers",
+    "author": "Garann Means",
+    "price": 41.89,
+    "imageUrl": "https://courses.prometheus.org.ua/asset-v1:Ciklum+FEB101+2022_T3+type@asset+block@node_for_front_end_developers.jpg",
+    "detailsUrl": "#/books/21"
+  }
+]
