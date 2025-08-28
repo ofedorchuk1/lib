@@ -12,7 +12,7 @@
     "title": "Clean Code in JavaScript",
     "author": "James Padolsey",
     "price": 31.99,
-    "imageUrl": "/imageNotFound.png",
+    "imageUrl": "imageNotFound.png",
     "detailsUrl": "#/books/2"
   },
   {
@@ -84,7 +84,7 @@
     "title": "Web Workers: Multithreaded Programs",
     "author": "Ido Green",
     "price": 14.99,
-    "imageUrl": "/imageNotFound.png",
+    "imageUrl": "imageNotFound.png",
     "detailsUrl": "#/books/11"
   },
   {
